@@ -1,0 +1,8 @@
+C:\C# Masterclass course\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\C# Masterclass course\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\C# Masterclass course\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\C# Masterclass course\Hello World\Hello World\obj\Debug\Hello World.csproj.AssemblyReference.cache
+C:\C# Masterclass course\Hello World\Hello World\obj\Debug\Hello World.csproj.SuggestedBindingRedirects.cache
+C:\C# Masterclass course\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\C# Masterclass course\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\C# Masterclass course\Hello World\Hello World\obj\Debug\Hello World.pdb
